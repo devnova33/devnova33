@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hello, world <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-<!--
-**crevulus/crevulus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Christopher (or Chris, or Chris Evans, or {CAPTAIN_AMERICA_REFERENCE}), a software developer specialising in Frontend development with JavaScript, as you can see from my stats below.
 
-Here are some ideas to get you started:
+* I got into software development because I wanted to build, make, sculpt, create, and/or bring my ideas to life 🤖
+* I find developing to be a creative, artistic process. I like to use technologies like **Frontend Frameworks** cut down config time and leave more time for creativity 🎨
+* I'm a big **JAMStack** advocate. Serverless architecture gives me the freedom to get up and running quickly ✍️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Tech Stack ⌨️
+### Learned
+![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=F7DF1E) ![](https://img.shields.io/badge/-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=1572B6) ![](https://img.shields.io/badge/-React-informational?style=flat&logo=React&logoColor=white&color=61DAFB) ![](https://img.shields.io/badge/-Vue-informational?style=flat&logo=Vue.js&logoColor=white&color=4FC08D) ![](https://img.shields.io/badge/-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=FFCA28) ![](https://img.shields.io/badge/-Redux-informational?style=flat&logo=Redux&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/-Next-informational?style=flat&logo=Next.js&logoColor=white&color=000000) ![](https://img.shields.io/badge/-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=FF61F6) 
+
+### Learning
+![](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=3178C6) ![](https://img.shields.io/badge/-SCSS-informational?style=flat&logo=Sass&logoColor=white&color=CC6699) ![](https://img.shields.io/badge/-GSAP-informational?style=flat&logo=GreenSock&logoColor=white&color=88CE02)
+
+
+# How I Spend My Time ⌛
+
+* Working and learning from the best as a Frontender for [MediaMonks](https://www.mediamonks.com/).
+* Co-founder, Frontend Dev, UI Designer, and Salesman for my side-business, [Pro-Evo Technologies](https://www.linkedin.com/company/pro-evo-technologies)
+* Volunteer and speaker coordinator for [ChangeX](https://www.linkedin.com/company/change-x-community/).
+* Avid music-lover, gig-goer, and wannabe-producer.
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crevulus&layout=compact&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=crevulus&count_private=true&hide=stars&show_icons=true&theme=dark" />
+</a>
