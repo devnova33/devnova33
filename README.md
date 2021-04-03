@@ -20,9 +20,9 @@ I'm Christopher (or Chris, or Chris Evans, or {CAPTAIN_AMERICA_REFERENCE}), a so
 # How I Spend My Time ⌛
 
 * Working and learning from the best as a Frontender for [MediaMonks](https://www.mediamonks.com/).
-* Co-founder, Frontend Dev, UI Designer, and Salesman for my side-business, [Pro-Evo Technologies](https://www.linkedin.com/company/pro-evo-technologies)
-* Volunteer and speaker coordinator for [ChangeX](https://www.linkedin.com/company/change-x-community/).
-* Avid music-lover, gig-goer, and wannabe-singer-songwriter.
+* Co-founder, Frontend Dev, UI Designer, and Salesman for my side-business, [Pro-Evo Technologies](https://www.linkedin.com/company/pro-evo-technologies).
+* Volunteer on the leadership team for [ChangeX](https://www.linkedin.com/company/change-x-community/).
+* Avid music-lover, gig-goer, and wannabe-songwriter.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crevulus&layout=compact&theme=dark" />
