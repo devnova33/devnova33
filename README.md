@@ -4,7 +4,7 @@ I'm Christopher (or Chris, or Chris Evans, or {CAPTAIN_AMERICA_REFERENCE}), a so
 
 * I got into software development because I wanted to build, make, sculpt, create, and/or bring my ideas to life 🤖
 * I find developing to be a creative, artistic process. I like to use technologies like **Frontend Frameworks** cut down config time and leave more time for creativity 🎨
-* I'm a believer in the **JAMStack**. Serverless architecture gives me the freedom to get up and running quickly ✍️
+* I'm a believer in **Serverless**. Cloud architecture gives me the freedom to get up and running quickly ✍️
 * I'm also a big advocate for **a11y** and **D&I** in tech 🌍
 
 
