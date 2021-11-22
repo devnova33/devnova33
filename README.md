@@ -24,9 +24,11 @@ I'm Christopher (or Chris, or Chris Evans, or {CAPTAIN_AMERICA_REFERENCE}), a so
 * Volunteer metnor for [Hack Your Future](https://www.hackyourfuture.net/).
 * Avid music-lover, gig-goer, and wannabe-songwriter.
 
+<div style="display: flex">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crevulus&layout=compact&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=crevulus&count_private=true&hide=stars&show_icons=true&theme=dark" />
 </a>
+</div>
