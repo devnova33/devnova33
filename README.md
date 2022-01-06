@@ -14,7 +14,7 @@ I'm Christopher (or Chris, or Chris Evans, or {CAPTAIN_AMERICA_REFERENCE}), a so
 
 
 ### Learning
-![](https://img.shields.io/badge/-Three-informational?style=flat&logo=Threedotjs&logoColor=white&color=000000) ![](https://img.shields.io/badge/-Styled--Components-informational?style=flat&logo=StyledComponents&logoColor=white&color=DB7093) ![](https://img.shields.io/badge/-Framer--Motion-informational?style=flat&logo=Framer&logoColor=white&color=0055FF) ![](https://img.shields.io/badge/-Preact-informational?style=flat&logo=JavaScript&logoColor=white&color=6740B5) 
+![](https://img.shields.io/badge/-Three-informational?style=flat&logo=Threedotjs&logoColor=white&color=000000) ![](https://img.shields.io/badge/-Styled--Components-informational?style=flat&logo=StyledComponents&logoColor=white&color=DB7093) ![](https://img.shields.io/badge/-Framer--Motion-informational?style=flat&logo=Framer&logoColor=white&color=0055FF) ![](https://img.shields.io/badge/-Preact-informational?style=flat&logo=JavaScript&logoColor=white&color=6740B5) ![](https://img.shields.io/badge/-Web3-informational?style=flat&logo=web3dotjs&logoColor=white&color=F16822) 
 
 
 # How I Spend My Time ⌛
