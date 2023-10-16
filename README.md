@@ -10,7 +10,7 @@ I'm Christopher (or Chris, or Chris Evans, or {CAPTAIN_AMERICA_REFERENCE}), a so
 
 # How I Spend My Time ⌛
 
-* Working and learning from the best as a SoftwareEngineer for [Rekki](https://rekki.com/).
+* Working and learning from the best as a Frontend Developer for [Spotlight](https://www.spotlight.com/).
 * Volunteer mentor and curriculum designer for [Hack Your Future](https://www.hackyourfuture.net/).
 * Co-founder, Frontend Dev, UI Designer, and Salesman for my side-business, [Pro-Evo Technologies](https://www.linkedin.com/company/pro-evo-technologies).
 * Avid music-lover, gig-goer, and wannabe-songwriter.
